@@ -34,7 +34,7 @@ git clone https://github.com/levihsu/OOTDiffusion
 ```sh
 conda create -n ootd python==3.10
 conda activate ootd
-pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2
+pip install torch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0
 pip install -r requirements.txt
 ```
 
